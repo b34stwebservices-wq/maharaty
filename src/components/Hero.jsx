@@ -18,10 +18,6 @@ export default function Hero() {
           transition={{duration:.8}}
         >
 
-          <Badge>
-            Zambia's Trusted Laser Clinic
-          </Badge>
-
           <h1 className="mt-6 text-5xl lg:text-7xl font-black text-white leading-tight">
             Reveal Your
             <span className="block text-green-400">
