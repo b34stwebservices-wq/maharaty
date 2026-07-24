@@ -1,0 +1,1 @@
+import { FaWhatsapp } from "react-icons/fa"; export default function FloatingWhatsapp(){return <a aria-label="Chat on WhatsApp" href="https://wa.me/260975350704" target="_blank" rel="noreferrer" className="fixed bottom-6 right-6 z-50 grid h-14 w-14 place-items-center rounded-full bg-green-600 text-2xl text-white shadow-xl hover:scale-110 transition"><FaWhatsapp/></a>}

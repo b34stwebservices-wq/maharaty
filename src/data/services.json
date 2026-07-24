@@ -1,0 +1,8 @@
+[
+  {"slug":"acne-treatment","name":"Acne Treatment","short":"Clearer, calmer skin with a plan tailored to you.","icon":"✦","benefits":["Targets active breakouts","Helps fade acne marks","Personalised aftercare"],"process":["Skin consultation","Targeted treatment","Home-care guidance"]},
+  {"slug":"mole-removal","name":"Mole Removal","short":"Professional assessment and gentle removal options.","icon":"○","benefits":["Quick consultation","Precision-led care","Clear recovery guidance"],"process":["Assessment","Removal treatment","Review & aftercare"]},
+  {"slug":"skin-tag-removal","name":"Skin Tag Removal","short":"A smooth, considered approach to skin tag care.","icon":"◌","benefits":["Minimal downtime","Comfort-focused","Suitable aftercare"],"process":["Consultation","Removal","Skin recovery plan"]},
+  {"slug":"chemical-peel","name":"Chemical Peel","short":"Refresh dull-looking skin and reveal a brighter glow.","icon":"◇","benefits":["Refines texture","Revives radiance","Supports even tone"],"process":["Skin analysis","Professional peel","Barrier-support aftercare"]},
+  {"slug":"stretch-mark-treatment","name":"Stretch Mark Treatment","short":"Advanced options to support smoother-looking skin.","icon":"≈","benefits":["Individual treatment plan","Modern technology","Progress tracking"],"process":["Consultation","Course of treatments","Progress review"]},
+  {"slug":"skin-rejuvenation","name":"Skin Rejuvenation","short":"Nourishing treatments designed to restore your glow.","icon":"✧","benefits":["Hydrated-looking skin","Relaxing experience","Healthy-skin guidance"],"process":["Consultation","Curated facial","Glow-maintenance plan"]}
+]

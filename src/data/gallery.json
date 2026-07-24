@@ -1,0 +1,43 @@
+{
+  "hero": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7746_biw21m.jpg?auto=format&fit=crop&w=1200&q=85","alt":"Woman enjoying professional skin care"},
+  "about": {"src":"https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1000&q=80","alt":"Relaxed clinic care"},
+  "services": {
+    "acne-treatment": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7747_slyv40.jpg?auto=format&fit=crop&w=900&q=80","alt":"Acne treatment consultation"},
+    "mole-removal": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7753_gvwmke.jpg?auto=format&fit=crop&w=900&q=80","alt":"Mole removal consultation"},
+    "skin-tag-removal": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7754_ahiwxr.jpg?auto=format&fit=crop&w=900&q=80","alt":"Skin tag treatment"},
+    "chemical-peel": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850843/IMG_7755_ea5sc3.jpg?auto=format&fit=crop&w=900&q=80","alt":"Chemical peel treatment"},
+    "stretch-mark-treatment": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850840/IMG_7741_jtid3t.jpg?auto=format&fit=crop&w=900&q=80","alt":"Stretch mark treatment"},
+    "skin-rejuvenation": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850839/IMG_7740_u2obq0.jpg?auto=format&fit=crop&w=900&q=80","alt":"Skin rejuvenation treatment"}
+  },
+  "gallery": [
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850843/IMG_7755_ea5sc3.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7747_slyv40.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7746_biw21m.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850841/IMG_7743_bxzqd5.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850841/IMG_7744_t97x0b.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850839/IMG_7740_u2obq0.jpg?auto=format&fit=crop&w=900&q=80","alt":""},
+    {"src":"https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=900&q=80","alt":"Maharaty clinic care"},
+    {"src":"https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=80","alt":"Skin consultation"},
+    {"src":"https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=900&q=80","alt":"Relaxing facial care"},
+    {"src":"https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=900&q=80","alt":"Skin rejuvenation"},
+    {"src":"https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=900&q=80","alt":"Professional beauty treatment"},
+    {"src":"https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=900&q=80","alt":"Healthy skin care"}
+  ],
+  "comparisons": [
+    {
+      "title": "Skin rejuvenation journey",
+      "before": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7754_ahiwxr.jpg?auto=format&fit=crop&w=1200&q=80","alt":"Before skin rejuvenation treatment"},
+      "after": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850844/IMG_7759_hbihog.jpg?auto=format&fit=crop&w=1200&q=80","alt":"After skin rejuvenation treatment"}
+    },
+    {
+      "title": "Professional facial care",
+      "before": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850843/IMG_7756_s9pja8.jpg?auto=format&fit=crop&w=1200&q=80","alt":"Before professional facial care"},
+      "after": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850841/IMG_7749_ijfc5j.jpg?auto=format&fit=crop&w=1200&q=80","alt":"After professional facial care"}
+    },
+    {
+      "title": "Warts Removal",
+      "before": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850842/IMG_7750_ai1goh.jpg?auto=format&fit=crop&w=1200&q=80","alt":"Before warts removal treatment"},
+      "after": {"src":"https://res.cloudinary.com/etbvemto/image/upload/v1784850844/IMG_7757_l5oreh.jpg?auto=format&fit=crop&w=1200&q=80","alt":"After warts removal treatment"}
+    }
+  ]
+}

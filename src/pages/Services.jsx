@@ -1,0 +1,2 @@
+import ServicesGrid from "../components/Services"; import CTA from "../components/CTA";
+export default function Services(){return <><section className="bg-blue-950 px-6 py-24 text-center text-white"><p className="font-bold text-green-400">OUR EXPERTISE</p><h1 className="mt-3 text-5xl font-black">Treatments for your best skin</h1><p className="mx-auto mt-5 max-w-xl text-blue-100">Explore our professional aesthetic and skin care options, each personalised to your needs.</p></section><ServicesGrid/><CTA/></>}
